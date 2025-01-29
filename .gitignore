@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# PyCharm project files
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Docker files
+*.tar
+.docker/
+
+# Environment variables file
+.env
+
+# Temporary editor files
+*.swp
+*.tmp
